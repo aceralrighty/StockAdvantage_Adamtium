@@ -8,7 +8,8 @@ public class StockService
 {
     private readonly IHubContext<StockHub> _hubContext;
     private readonly HttpClient _httpClient;
-    private readonly string _apiKey = "REPLACE_API_KEY :)";
+    private readonly string? _apiKey = Environment.GetEnvironmentVariable("API_KEY");
+    // private readonly string _apiKey = "";
 
     public StockService(IHubContext<StockHub> hubContext, HttpClient httpClient)
     {

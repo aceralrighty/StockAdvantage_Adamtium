@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "/Users/jarrettplate/Desktop/Advanceddotnet/SignalRStuf/StockAdvantage/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js",
+      "Id": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/Users/jarrettplate/Desktop/Advanceddotnet/SignalRStuf/StockAdvantage/StockAdvantage.Client/wwwroot/appsettings.Development.json",
+      "Id": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/wwwroot/appsettings.Development.json",
       "PackagePath": "staticwebassets/appsettings.Development.json"
     },
     {
-      "Id": "/Users/jarrettplate/Desktop/Advanceddotnet/SignalRStuf/StockAdvantage/StockAdvantage.Client/wwwroot/appsettings.json",
+      "Id": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/wwwroot/appsettings.json",
       "PackagePath": "staticwebassets/appsettings.json"
     },
     {

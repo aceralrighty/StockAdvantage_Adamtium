@@ -1491,19 +1491,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jarrettplate/.nuget/packages/": {}
+    "/Users/adamziv/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jarrettplate/Desktop/Advanceddotnet/StockAdvantage/StockAdvantage/StockAdvantage.csproj",
+      "projectUniqueName": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage/StockAdvantage.csproj",
       "projectName": "StockAdvantage",
-      "projectPath": "/Users/jarrettplate/Desktop/Advanceddotnet/StockAdvantage/StockAdvantage/StockAdvantage.csproj",
-      "packagesPath": "/Users/jarrettplate/.nuget/packages/",
-      "outputPath": "/Users/jarrettplate/Desktop/Advanceddotnet/StockAdvantage/StockAdvantage/obj/",
+      "projectPath": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage/StockAdvantage.csproj",
+      "packagesPath": "/Users/adamziv/.nuget/packages/",
+      "outputPath": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jarrettplate/.nuget/NuGet/NuGet.Config"
+        "/Users/adamziv/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1515,8 +1515,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/jarrettplate/Desktop/Advanceddotnet/StockAdvantage/StockAdvantage.Client/StockAdvantage.Client.csproj": {
-              "projectPath": "/Users/jarrettplate/Desktop/Advanceddotnet/StockAdvantage/StockAdvantage.Client/StockAdvantage.Client.csproj"
+            "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/StockAdvantage.Client.csproj": {
+              "projectPath": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/StockAdvantage.Client.csproj"
             }
           }
         }
@@ -1529,8 +1529,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -1564,7 +1565,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/adamziv/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
