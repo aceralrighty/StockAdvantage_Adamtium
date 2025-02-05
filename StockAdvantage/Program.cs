@@ -16,6 +16,10 @@ builder.Services.AddSingleton<StockService>();
 
 builder.Services.AddSignalR();
 
+builder.Services.AddControllers();
+
+
+
 builder.Services.AddResponseCompression(opts =>
 {
     opts.MimeTypes = ResponseCompressionDefaults.MimeTypes.Concat(
@@ -40,6 +44,7 @@ app.UseHttpsRedirection();
 
 app.UseResponseCompression();
 app.UseAntiforgery();
+app.MapControllers();
 
 app.MapStaticAssets();
 app.MapRazorComponents<App>()

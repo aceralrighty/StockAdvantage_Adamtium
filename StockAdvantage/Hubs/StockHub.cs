@@ -15,7 +15,7 @@ public class StockHub : Hub
 
     public async Task SendStockUpdate(string symbol)
     {
-        var price = await _stockService.GetStockPriceAsync(symbol);
+        var price =  _stockService.GetBalance();
         _logger.LogInformation($"Sending update for {symbol}: {price}");
         await Clients.All.SendAsync("ReceiveStockUpdate", symbol, price);
     }

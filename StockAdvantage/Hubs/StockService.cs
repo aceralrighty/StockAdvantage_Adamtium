@@ -11,6 +11,22 @@ public class StockService
     private readonly string? _apiKey = Environment.GetEnvironmentVariable("API_KEY");
     // private readonly string _apiKey = "";
 
+    private decimal _balance = 50000m;
+    
+    public decimal GetBalance() => _balance;
+
+    public async Task<bool> PurchaseStock(decimal stockPrice, int quantity)
+    {
+        decimal totalCost = stockPrice * quantity;
+        if (_balance >=totalCost)
+        {
+            _balance -= totalCost;
+            await _hubContext.Clients.All.SendAsync("UpdateBalance", _balance);
+            return true;
+        }
+        return false;
+    }
+
     public StockService(IHubContext<StockHub> hubContext, HttpClient httpClient)
     {
         _hubContext = hubContext;
@@ -30,28 +46,40 @@ public class StockService
             var url = $"https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-summary?symbol={symbol}&region=US";
     
             var request = new HttpRequestMessage(HttpMethod.Get, url);
+            Console.WriteLine(symbol);
             request.Headers.Add("X-RapidAPI-Key", _apiKey);
             request.Headers.Add("X-RapidAPI-Host", "apidojo-yahoo-finance-v1.p.rapidapi.com");
 
             var response = await _httpClient.SendAsync(request);
-            
-            // hopefully we're getting here now
             var responseContent = await response.Content.ReadAsStringAsync();
+        
             Console.WriteLine($"Response Status Code: {response.StatusCode}");
-            Console.WriteLine($"Response Body: {responseContent}");
+            Console.WriteLine($"Full Response Body: {responseContent}");
 
-            response.EnsureSuccessStatusCode();
+            if (!response.IsSuccessStatusCode)
+            {
+                throw new Exception($"API request failed: {response.StatusCode} - {responseContent}");
+            }
 
             using var jsonDoc = JsonDocument.Parse(responseContent);
-            var root = jsonDoc.RootElement;
+            Console.WriteLine($"Parsed JSON Root: {jsonDoc.RootElement}");
 
+            // Add more specific JSON path debugging
+            var root = jsonDoc.RootElement;
+            Console.WriteLine("JSON Structure:");
+            foreach (var property in root.EnumerateObject())
+            {
+                Console.WriteLine($"Property: {property.Name}");
+            }
             if (root.TryGetProperty("price", out var priceElement) &&
                 priceElement.TryGetProperty("regularMarketPrice", out var marketPriceElement) &&
-                marketPriceElement.TryGetProperty("raw", out var rawPriceElement) &&
-                rawPriceElement.TryGetDecimal(out var stockPrice))
+                marketPriceElement.TryGetProperty("raw", out var rawPriceElement))
             {
-                Console.WriteLine("Here we are");
-                return stockPrice;
+                string rawPriceString = rawPriceElement.ToString();
+                if (decimal.TryParse(rawPriceString, out decimal stockPrice))
+                {
+                    return stockPrice;
+                }
             }
 
             throw new Exception("Stock price not available.");

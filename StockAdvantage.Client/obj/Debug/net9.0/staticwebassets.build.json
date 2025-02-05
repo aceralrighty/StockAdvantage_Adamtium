@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ci13tu3fj5oau5piiN0M0cEgEDNmPSMD/m/SFw2AUDg=",
+  "Hash": "MC9sgWNPaawvowYYsfTfJRJx5VcqyegHvXkh470z7Us=",
   "Source": "StockAdvantage.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "57dqwl7u1a",
-      "Integrity": "UUlE6uU83dMZ5q6W2WHbXpdu6b6pdbJF/TywDDDQbNQ=",
+      "Fingerprint": "ogqay3127l",
+      "Integrity": "iH2KyFFQrRHXhyN10oq8wnmvHBBaKzUxW1Jb6IVVv00=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "f3h1j7om4o",
-      "Integrity": "NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk=",
+      "Fingerprint": "bqn3y80hs2",
+      "Integrity": "41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/StockAdvantage.Client.pdb"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "ggh3q2pyya",
-      "Integrity": "4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo=",
+      "Fingerprint": "1vwn70tjqb",
+      "Integrity": "4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/webcil/StockAdvantage.Client.wasm"
@@ -5204,12 +5204,12 @@
       "OriginalItemSpec": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Security.Principal.Windows.wasm"
     },
     {
-      "Identity": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-f3h1j7om4o.gz",
+      "Identity": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-bqn3y80hs2.gz",
       "SourceId": "StockAdvantage.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=f3h1j7om4o}]!.pdb.gz",
+      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=bqn3y80hs2}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5218,8 +5218,8 @@
       "RelatedAsset": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "u9z779kjpr",
-      "Integrity": "ribWOuFg3kSmpyEwgM3Xck2X9gUToGBNkyjFMFhviWQ=",
+      "Fingerprint": "5m9vjv8872",
+      "Integrity": "k24/DtNnsKG+bDL/SKsynuKH2j8RhHxBawBYuFwCqgc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.pdb"
@@ -6044,7 +6044,7 @@
       "OriginalItemSpec": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Reflection.Extensions.wasm"
     },
     {
-      "Identity": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-57dqwl7u1a.gz",
+      "Identity": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-ogqay3127l.gz",
       "SourceId": "StockAdvantage.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/",
@@ -6058,8 +6058,8 @@
       "RelatedAsset": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "i6gnyqt90y",
-      "Integrity": "VjQGZT6yPfuGyrHFFytsrScfVVJ28uu69h4Hhfan8SI=",
+      "Fingerprint": "opwdyws1ad",
+      "Integrity": "JDeorD0BX5LmvW5i2kmrDoOiK4uEkZJauOzTfoEU5Jc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -8333,12 +8333,12 @@
       "OriginalItemSpec": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.wasm"
     },
     {
-      "Identity": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-ggh3q2pyya.gz",
+      "Identity": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-1vwn70tjqb.gz",
       "SourceId": "StockAdvantage.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=ggh3q2pyya}]!.wasm.gz",
+      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=1vwn70tjqb}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8347,8 +8347,8 @@
       "RelatedAsset": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nbc5y4p8ed",
-      "Integrity": "XbANMrucgnPk+/wEvXhJ4NtscnZ5tsfTMcCJGlmkTTg=",
+      "Fingerprint": "fe4yf822p6",
+      "Integrity": "x3k5lvAf0h1bEqA0NtzMJZMIDHNW+0iomPVqlt3l+Ag=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.wasm"
@@ -9067,11 +9067,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UUlE6uU83dMZ5q6W2WHbXpdu6b6pdbJF/TywDDDQbNQ=\""
+          "Value": "\"iH2KyFFQrRHXhyN10oq8wnmvHBBaKzUxW1Jb6IVVv00=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 29 Jan 2025 13:34:49 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9081,18 +9081,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UUlE6uU83dMZ5q6W2WHbXpdu6b6pdbJF/TywDDDQbNQ="
+          "Value": "sha256-iH2KyFFQrRHXhyN10oq8wnmvHBBaKzUxW1Jb6IVVv00="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-57dqwl7u1a.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-ogqay3127l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077459334"
+          "Quality": "0.000077453334"
         }
       ],
       "ResponseHeaders": [
@@ -9102,15 +9102,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12909"
+          "Value": "12910"
         },
         {
           "Name": "ETag",
-          "Value": "\"VjQGZT6yPfuGyrHFFytsrScfVVJ28uu69h4Hhfan8SI=\""
+          "Value": "\"JDeorD0BX5LmvW5i2kmrDoOiK4uEkZJauOzTfoEU5Jc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:07:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9130,19 +9130,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UUlE6uU83dMZ5q6W2WHbXpdu6b6pdbJF/TywDDDQbNQ=\""
+          "Value": "W/\"iH2KyFFQrRHXhyN10oq8wnmvHBBaKzUxW1Jb6IVVv00=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UUlE6uU83dMZ5q6W2WHbXpdu6b6pdbJF/TywDDDQbNQ="
+          "Value": "sha256-iH2KyFFQrRHXhyN10oq8wnmvHBBaKzUxW1Jb6IVVv00="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-57dqwl7u1a.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-ogqay3127l.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9151,7 +9151,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12909"
+          "Value": "12910"
         },
         {
           "Name": "Content-Type",
@@ -9159,11 +9159,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VjQGZT6yPfuGyrHFFytsrScfVVJ28uu69h4Hhfan8SI=\""
+          "Value": "\"JDeorD0BX5LmvW5i2kmrDoOiK4uEkZJauOzTfoEU5Jc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:07:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9181,7 +9181,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VjQGZT6yPfuGyrHFFytsrScfVVJ28uu69h4Hhfan8SI="
+          "Value": "sha256-JDeorD0BX5LmvW5i2kmrDoOiK4uEkZJauOzTfoEU5Jc="
         }
       ]
     },
@@ -23031,168 +23031,7 @@
       ]
     },
     {
-      "Route": "_framework/StockAdvantage.Client.f3h1j7om4o.pdb",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19540"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f3h1j7om4o"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/StockAdvantage.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/StockAdvantage.Client.f3h1j7om4o.pdb",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-f3h1j7om4o.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000078455986"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12745"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ribWOuFg3kSmpyEwgM3Xck2X9gUToGBNkyjFMFhviWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f3h1j7om4o"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/StockAdvantage.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/StockAdvantage.Client.f3h1j7om4o.pdb.gz",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-f3h1j7om4o.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12745"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ribWOuFg3kSmpyEwgM3Xck2X9gUToGBNkyjFMFhviWQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f3h1j7om4o"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/StockAdvantage.Client.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ribWOuFg3kSmpyEwgM3Xck2X9gUToGBNkyjFMFhviWQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/StockAdvantage.Client.ggh3q2pyya.wasm",
+      "Route": "_framework/StockAdvantage.Client.1vwn70tjqb.wasm",
       "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23202,7 +23041,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "24341"
         },
         {
           "Name": "Content-Type",
@@ -23210,11 +23049,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo=\""
+          "Value": "\"4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:19 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23224,7 +23063,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ggh3q2pyya"
+          "Value": "1vwn70tjqb"
         },
         {
           "Name": "label",
@@ -23232,18 +23071,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo="
+          "Value": "sha256-4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y="
         }
       ]
     },
     {
-      "Route": "_framework/StockAdvantage.Client.ggh3q2pyya.wasm",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-ggh3q2pyya.gz",
+      "Route": "_framework/StockAdvantage.Client.1vwn70tjqb.wasm",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-1vwn70tjqb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000152835091"
+          "Quality": "0.000092038656"
         }
       ],
       "ResponseHeaders": [
@@ -23253,15 +23092,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6542"
+          "Value": "10864"
         },
         {
           "Name": "ETag",
-          "Value": "\"XbANMrucgnPk+/wEvXhJ4NtscnZ5tsfTMcCJGlmkTTg=\""
+          "Value": "\"x3k5lvAf0h1bEqA0NtzMJZMIDHNW+0iomPVqlt3l+Ag=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23281,13 +23120,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo=\""
+          "Value": "W/\"4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ggh3q2pyya"
+          "Value": "1vwn70tjqb"
         },
         {
           "Name": "label",
@@ -23295,13 +23134,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo="
+          "Value": "sha256-4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y="
         }
       ]
     },
     {
-      "Route": "_framework/StockAdvantage.Client.ggh3q2pyya.wasm.gz",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-ggh3q2pyya.gz",
+      "Route": "_framework/StockAdvantage.Client.1vwn70tjqb.wasm.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-1vwn70tjqb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23310,7 +23149,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6542"
+          "Value": "10864"
         },
         {
           "Name": "Content-Type",
@@ -23318,11 +23157,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XbANMrucgnPk+/wEvXhJ4NtscnZ5tsfTMcCJGlmkTTg=\""
+          "Value": "\"x3k5lvAf0h1bEqA0NtzMJZMIDHNW+0iomPVqlt3l+Ag=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23340,7 +23179,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ggh3q2pyya"
+          "Value": "1vwn70tjqb"
         },
         {
           "Name": "label",
@@ -23348,7 +23187,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XbANMrucgnPk+/wEvXhJ4NtscnZ5tsfTMcCJGlmkTTg="
+          "Value": "sha256-x3k5lvAf0h1bEqA0NtzMJZMIDHNW+0iomPVqlt3l+Ag="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/StockAdvantage.Client.bqn3y80hs2.pdb",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqn3y80hs2"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/StockAdvantage.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/StockAdvantage.Client.bqn3y80hs2.pdb",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-bqn3y80hs2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000069666992"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14353"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k24/DtNnsKG+bDL/SKsynuKH2j8RhHxBawBYuFwCqgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqn3y80hs2"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/StockAdvantage.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/StockAdvantage.Client.bqn3y80hs2.pdb.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-bqn3y80hs2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k24/DtNnsKG+bDL/SKsynuKH2j8RhHxBawBYuFwCqgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bqn3y80hs2"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/StockAdvantage.Client.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k24/DtNnsKG+bDL/SKsynuKH2j8RhHxBawBYuFwCqgc="
         }
       ]
     },
@@ -23363,7 +23363,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19540"
+          "Value": "21736"
         },
         {
           "Name": "Content-Type",
@@ -23371,11 +23371,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk=\""
+          "Value": "\"41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:19 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23385,18 +23385,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk="
+          "Value": "sha256-41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.pdb",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-f3h1j7om4o.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-bqn3y80hs2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000078455986"
+          "Quality": "0.000069666992"
         }
       ],
       "ResponseHeaders": [
@@ -23406,15 +23406,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12745"
+          "Value": "14353"
         },
         {
           "Name": "ETag",
-          "Value": "\"ribWOuFg3kSmpyEwgM3Xck2X9gUToGBNkyjFMFhviWQ=\""
+          "Value": "\"k24/DtNnsKG+bDL/SKsynuKH2j8RhHxBawBYuFwCqgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23434,19 +23434,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk=\""
+          "Value": "W/\"41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NYRG4gWR/jKVHlcbXF4/Kq0X0Ur/+sNqQjzru7QgPbk="
+          "Value": "sha256-41zl9R4p/FQs31SBUZKkfy2NSoZ/XRT8CYh375E4W14="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.pdb.gz",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-f3h1j7om4o.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-bqn3y80hs2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23455,7 +23455,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12745"
+          "Value": "14353"
         },
         {
           "Name": "Content-Type",
@@ -23463,11 +23463,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ribWOuFg3kSmpyEwgM3Xck2X9gUToGBNkyjFMFhviWQ=\""
+          "Value": "\"k24/DtNnsKG+bDL/SKsynuKH2j8RhHxBawBYuFwCqgc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23485,7 +23485,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ribWOuFg3kSmpyEwgM3Xck2X9gUToGBNkyjFMFhviWQ="
+          "Value": "sha256-k24/DtNnsKG+bDL/SKsynuKH2j8RhHxBawBYuFwCqgc="
         }
       ]
     },
@@ -23500,7 +23500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "24341"
         },
         {
           "Name": "Content-Type",
@@ -23508,11 +23508,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo=\""
+          "Value": "\"4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:19 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23522,18 +23522,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo="
+          "Value": "sha256-4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.wasm",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-ggh3q2pyya.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-1vwn70tjqb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000152835091"
+          "Quality": "0.000092038656"
         }
       ],
       "ResponseHeaders": [
@@ -23543,15 +23543,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6542"
+          "Value": "10864"
         },
         {
           "Name": "ETag",
-          "Value": "\"XbANMrucgnPk+/wEvXhJ4NtscnZ5tsfTMcCJGlmkTTg=\""
+          "Value": "\"x3k5lvAf0h1bEqA0NtzMJZMIDHNW+0iomPVqlt3l+Ag=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23571,19 +23571,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo=\""
+          "Value": "W/\"4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4NIGhwoYOwrA51jjIDqEyLECqSCMmtmiXD+6TjWsFuo="
+          "Value": "sha256-4wJyOpi+VmTfQSlt4QUToaUuVQyHIxoj3wuTkBC212Y="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.wasm.gz",
-      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-ggh3q2pyya.gz",
+      "AssetFile": "/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-1vwn70tjqb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23592,7 +23592,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6542"
+          "Value": "10864"
         },
         {
           "Name": "Content-Type",
@@ -23600,11 +23600,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XbANMrucgnPk+/wEvXhJ4NtscnZ5tsfTMcCJGlmkTTg=\""
+          "Value": "\"x3k5lvAf0h1bEqA0NtzMJZMIDHNW+0iomPVqlt3l+Ag=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 18:05:20 GMT"
+          "Value": "Wed, 05 Feb 2025 15:08:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23622,7 +23622,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XbANMrucgnPk+/wEvXhJ4NtscnZ5tsfTMcCJGlmkTTg="
+          "Value": "sha256-x3k5lvAf0h1bEqA0NtzMJZMIDHNW+0iomPVqlt3l+Ag="
         }
       ]
     },

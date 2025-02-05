@@ -1124,8 +1124,6 @@
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/Microsoft.Win32.Registry.yqsrs1xmzk.wasm
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/mscorlib.o0184ey5ia.wasm
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/netstandard.hb3h2rr8mk.wasm
-/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.f3h1j7om4o.pdb
-/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.ggh3q2pyya.wasm
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.AppContext.rb3sudfxx6.wasm
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Buffers.ijnujodfj9.wasm
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Collections.Concurrent.xuu1t5r6su.wasm
@@ -1323,7 +1321,6 @@
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/Microsoft.VisualBasic.txibwr0y0j.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Security.Principal.4x2cwjy245.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Security.Principal.Windows.x9ozykue0h.wasm.gz
-/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.f3h1j7om4o.pdb.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.8hunc8w9tt.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.TraceSource.8vt79a7xxd.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.IO.Pipes.ti4y7a6pvz.wasm.gz
@@ -1471,7 +1468,6 @@
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.1lmojhcni4.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/netstandard.hb3h2rr8mk.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.b16upo65in.wasm.gz
-/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.ggh3q2pyya.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.imo7pk0yqi.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Tracing.tpkhn2lksh.wasm.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/System.Text.Json.9wi3ak1857.wasm.gz
@@ -2138,9 +2134,6 @@
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/pjoekw1c8c-tjcz0u77k5.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/tqnfzfc00q-tptq2av103.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/lmjgec8xn9-lfu7j35m59.gz
-/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-ggh3q2pyya.gz
-/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-f3h1j7om4o.gz
-/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-57dqwl7u1a.gz
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/staticwebassets.build.json
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/staticwebassets.development.json
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -2155,3 +2148,10 @@
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/refint/StockAdvantage.Client.dll
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/StockAdvantage.Client.pdb
 /Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/ref/StockAdvantage.Client.dll
+/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.bqn3y80hs2.pdb
+/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.1vwn70tjqb.wasm
+/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.bqn3y80hs2.pdb.gz
+/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/bin/Debug/net9.0/wwwroot/_framework/StockAdvantage.Client.1vwn70tjqb.wasm.gz
+/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/uxkiheiif5-1vwn70tjqb.gz
+/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/6g5lxqd8fp-bqn3y80hs2.gz
+/Users/adamziv/Desktop/Winter_Term_2024/C# 3/StockAdvantage_Adamtium/StockAdvantage.Client/obj/Debug/net9.0/compressed/ctq1x2pm1a-ogqay3127l.gz
