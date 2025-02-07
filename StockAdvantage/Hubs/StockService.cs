@@ -27,6 +27,18 @@ public class StockService
         return false;
     }
 
+    public async Task<bool> SellStock(decimal stockPrice, int quantity)
+    {
+        decimal totalCost = stockPrice * quantity;
+        if (_balance >= totalCost)
+        {
+            _balance += totalCost;
+            await _hubContext.Clients.All.SendAsync("UpdateBalance", _balance);
+            return true;
+        }
+        return false;
+    }
+
     public StockService(IHubContext<StockHub> hubContext, HttpClient httpClient)
     {
         _hubContext = hubContext;
